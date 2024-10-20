@@ -80,4 +80,4 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/yashbhatt30) an
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Thanks+For+Visiting!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&width=435&height=100&lines=Thanks+For+Visiting!!!)](https://git.io/typing-svg)
