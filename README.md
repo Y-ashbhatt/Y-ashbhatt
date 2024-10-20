@@ -1,20 +1,5 @@
 
 
-<!--
-**Y-ashbhatt/Y-ashbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <h2> Hi 👋 I'm Yash Bhatt</h2>
   <div id="badges">
@@ -24,60 +9,55 @@ Here are some ideas to get you started:
   </div>
 </div>
 
+## 💫 About me
+- 🔭 Frontend Developer
+- 🌱 Currently learning advanced Node.js, Express.js, and UX/UI design
+- 👯 Looking to collaborate on full-stack and frontend projects
+- 🤔 Open to frontend/full-stack roles to apply my skills in real-world projects
+- ⚡ Fun fact: I enjoy gaming, anime, and reading!
 
-#### 💻 &nbsp; About Me :
+  
+<br/><br/><br/>
 
-I am a passionate **front-end web developer** from New Delhi, India, with a focus on crafting responsive and dynamic user experiences. I have a solid foundation in **React.js**, **JavaScript (ES6+)**, and **Node.js**, and I enjoy working on both front-end and back-end projects using the **MERN stack**. My experience spans building e-commerce platforms, real-time applications, and marketplace solutions, all with an emphasis on clean code and scalable architecture.
+## 💻 Technology stack
 
-I am currently seeking opportunities where I can leverage my skills in modern web technologies to solve real-world problems. I am open to collaboration on exciting projects and always eager to learn new technologies.
+### 👉 Programming languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Feel free to check out my [LinkedIn](https://www.linkedin.com/in/yashbhatt30) and [GitHub](https://github.com/y-ashbhatt) profiles to see more of my work!
+### 👉 Frontend Development
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### 👉 Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 👉 Databases & Cloud Hosting
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=White)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 👉 Tools & Version Control
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br/><br/><br/>
+
+## 💻 GitHub stats
+
+### 👉 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-ashbhatt&layout=donut&hide=roff&theme=nightowl)](https://github.com/y-ashbhatt/github-readme-stats)
+<br/>
+### 👉 Streak
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=y-ashbhatt&theme=nightowl&hide_border=false" width = 500>
+<br/>
 
 
-#### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
-
-
-**Certifications**:
-- The Complete 2024 Web Development Bootcamp – Dr. Angela Yu
-- Fundamentals of Digital Marketing – Google
-- Responsive Web Design – FreeCodeCamp
-- JavaScript Algorithms and Data Structures – FreeCodeCamp
-
-
-#### :fire: My Stats :
-
-<a href="https://github.com/y-ashbhatt">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=y-ashbhatt&show_icons=true&locale=en&layout=compact" alt="Yashbhatt's Most Used Languages" />
-</a>
-<br>
-<a href="https://github.com/y-ashbhatt">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=y-ashbhatt&" alt="y-ashbhatt" />
-</a>
-
-#### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&width=435&height=100&lines=Thanks+For+Visiting!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&width=435&height=100&lines=Thanks+For+Visiting!!)](https://git.io/typing-svg)
