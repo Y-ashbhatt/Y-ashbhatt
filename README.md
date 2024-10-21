@@ -59,5 +59,4 @@
 <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=y-ashbhatt&theme=nightowl&hide_border=false" width = 500>
 <br/>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&width=435&height=100&lines=Thanks+For+Visiting!!&)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&duration=5500&pause=900&width=435&lines=Thanks+for+Visiting!!)](https://git.io/typing-svg)
