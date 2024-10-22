@@ -64,10 +64,10 @@
   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=y-ashbhatt&layout=donut&hide=roff&theme=transparent">
 <h3>👉 Streak </h3>
 <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=y-ashbhatt&theme=transparent&hide_border=false" width = 500>
-<h3>  👉 Details </h3>
+<h3>👉 Commits </h3>
 <div>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y-ashbhatt&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-ashbhatt&theme=transparent" height="180em" alt="Commitments"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y-ashbhatt&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-ashbhatt&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
 <br/><br/>
