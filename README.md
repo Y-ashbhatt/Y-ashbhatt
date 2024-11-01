@@ -17,7 +17,7 @@
 - 🌱 Currently learning Next.js, Typescript and UX/UI design
 - 👯 Looking to collaborate on full-stack and frontend projects
 - 🤔 Open to frontend/full-stack roles to apply my skills in real-world projects
-- ⚡  I enjoy gaming, anime, and reading!
+- ⚡  I enjoy gaming, and reading!
 
 
 <br/>
