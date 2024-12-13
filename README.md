@@ -63,7 +63,7 @@
 <h3> 👉 Languages </h3>
   <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=y-ashbhatt&layout=donut&hide=roff&theme=transparent">
 <h3>👉 Streak </h3>
-<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=y-ashbhatt&theme=transparent&hide_border=false" width = 500>
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=Y-ashbhatt&theme=transparent&short_numbers=true" width = 500>
 <h3>👉 Commits </h3>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y-ashbhatt&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
