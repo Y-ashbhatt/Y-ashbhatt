@@ -14,7 +14,7 @@
 
 ## 💫 About me
 - 🔭 Frontend Developer
-- 🌱 Currently learning Next.js, and Typescript
+- 🌱 Currently learning React.js, and Jest
 - 👯 Looking to collaborate on full-stack and frontend projects
 - 🤔 Open to frontend/full-stack roles to apply my skills in real-world projects
 - ⚡  I enjoy gaming, and reading!
